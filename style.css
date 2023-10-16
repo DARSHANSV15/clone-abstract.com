@@ -127,7 +127,7 @@ a {
 }
 
 #menu-search {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     border-radius: .3rem;
     background: #000000;
     color: #fff;
@@ -137,12 +137,12 @@ a {
 }
 
 #menu-search:hover {
-    font-size: 1.7rem;
+    font-size: 1.4rem;
     transition: all .1s ease-in-out;
 }
 
 #menu-btn {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     border-radius: .3rem;
     background: #000000;
     color: #fff;
